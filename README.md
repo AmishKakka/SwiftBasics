@@ -10,4 +10,4 @@ Herein, I have covered topics from -
 7. Use of static, guard and mutating keyword
 8. Understanding 'extension' and modifying it
 
-@karpathy
+Tried to build Byte Pair Encoding (BPE) from scratch for tokenization. Inspiration from <a href="https://github.com/karpathy/minbpe">karpathy</a>
