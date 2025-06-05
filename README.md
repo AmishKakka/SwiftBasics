@@ -9,3 +9,5 @@ Herein, I have covered topics from -
 6. Option chaining and nil coalescing
 7. Use of static, guard and mutating keyword
 8. Understanding 'extension' and modifying it
+
+@karpathy
